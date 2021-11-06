@@ -1,0 +1,25 @@
+[
+      {
+            "id": 1,
+            "title": "Pizza con pepperoni",
+            "description": "Deliciosa pizza con pepperoni.",
+            "price": "7,000.00",
+            "imgUrl": "https://www.reformsocialgrill.ae/wp-content/uploads/2020/06/margharita-pizza.png",
+            "hasPackage": true
+            
+      },
+      {
+            "id": 2,
+            "title": "Pizza con pepperoni",
+            "description": "Deliciosa pizza vegetariana.",
+            "price": "8,000.00",
+            "imgUrl": "https://pizzacharlottenc.com/wp-content/uploads/2020/08/pepperoni-pizza.png"
+      },
+      {
+            "id": 3,
+            "title": "Pizza suprema",
+            "description": "Deliciosa pizza que trae de todo.",
+            "price": "8,000.00",
+            "imgUrl": "https://static.wixstatic.com/media/bb5d13_a563441101374b0cb307cdba45e05315~mv2.png/v1/fill/w_776,h_738,al_c,q_90,usm_2.00_1.00_0.00/bb5d13_a563441101374b0cb307cdba45e05315~mv2.webp"
+      }
+]

@@ -1,0 +1,38 @@
+.hero {
+      height: 100vh;
+      width: 100%;
+      
+      background: #000;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+}
+
+.hero .container {
+      height: inherit;
+
+      display: flex;
+      align-items: center;
+      justify-content:  space-between;
+}
+
+.hero-card {
+      width: 50%;
+
+      color: #fff;
+
+      text-align: left;
+}
+
+.hero-card__title {
+      font-size: 65px;
+}
+
+.hero-card__description {
+      font-size: 25px;
+}
+
+.hero__img {
+      width: 700px;
+}
