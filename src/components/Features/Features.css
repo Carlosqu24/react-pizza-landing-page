@@ -34,7 +34,7 @@
 
 .food-card {
       margin: 10px 0;
-      padding: 30px;
+      /* padding: 30px; */
       border-radius: 6px;
 
       text-align: left;
@@ -55,7 +55,7 @@
 
 
 .food-card__body {
-      padding: 0 1rem;
+      padding: 2rem 1rem;
 
       text-align: center;
 }
@@ -65,7 +65,7 @@
 }
 
 .food-card__title {
-      font-size: 38px;
+      font-size: 35px;
 }
 
 .food-card__description {

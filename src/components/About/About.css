@@ -1,0 +1,19 @@
+.about {
+      height: 80vh;
+
+      background: var(--white-bg);
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+}
+
+.about__img {
+      height: 100%;
+      width: 50%;
+}
+
+.about__card {
+      height: 100%;
+      padding: 1rem;
+}

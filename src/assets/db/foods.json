@@ -4,9 +4,7 @@
             "title": "Pizza con pepperoni",
             "description": "Deliciosa pizza con pepperoni.",
             "price": "7,000.00",
-            "imgUrl": "https://www.reformsocialgrill.ae/wp-content/uploads/2020/06/margharita-pizza.png",
-            "hasPackage": true
-            
+            "imgUrl": "https://www.reformsocialgrill.ae/wp-content/uploads/2020/06/margharita-pizza.png"
       },
       {
             "id": 2,
@@ -21,5 +19,29 @@
             "description": "Deliciosa pizza que trae de todo.",
             "price": "8,000.00",
             "imgUrl": "https://static.wixstatic.com/media/bb5d13_a563441101374b0cb307cdba45e05315~mv2.png/v1/fill/w_776,h_738,al_c,q_90,usm_2.00_1.00_0.00/bb5d13_a563441101374b0cb307cdba45e05315~mv2.webp"
+      },
+      {
+            "id": 4,
+            "title": "Pizza con pepperoni",
+            "isTest": true,
+            "description": "Deliciosa pizza con pepperoni.",
+            "price": "8,000.00",
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9LpqTWw-k3sXbL67snwjb7lqLXspS4wo-NA&usqp=CAU"
+      },
+      {
+            "id": 5,
+            "title": "Pizza Hawaiana",
+            "isTest": true,
+            "description": "Deliciosa pizza con piña.",
+            "price": "8,000.00",
+            "imgUrl": "https://img-global.cpcdn.com/recipes/9e80201d79c1de8c/680x482cq70/pizza-hawaiana-integral-foto-principal.jpg"
+      },
+      {
+            "id": 6,
+            "title": "Pizza suprema",
+            "isTest": true,
+            "description": "Deliciosa pizza que trae de todo.",
+            "price": "8,000.00",
+            "imgUrl": "https://www.deliciosi.com/images/1300/1338/pizza-de-pollo.jpg"
       }
 ]

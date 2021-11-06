@@ -15,6 +15,10 @@ export const Header = () => {
                               </li>
 
                               <li className="navbar__item">
+                                    <a href="#about" className="navbar__link">Sobre Nosotros</a>
+                              </li>
+
+                              <li className="navbar__item">
                                     <a href="#menu" className="navbar__link">Menú</a>
                               </li>
 
