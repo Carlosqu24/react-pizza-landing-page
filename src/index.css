@@ -1,5 +1,7 @@
 :root {
   --white-bg: rgb(240, 240, 240);
+
+  --red: rgb(145, 17, 17);
 }
 
 * {
@@ -14,4 +16,26 @@
 .container {
   width: 80%;
   margin: auto;
+}
+
+.section {
+  padding: 50px 0 100px 0;
+
+  background: var(--white-bg);
+  color: rgb(0, 0, 0); 
+}
+
+.section__title {
+  padding: 50px 0;
+
+  font-size: 50px;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: #fff;
 }

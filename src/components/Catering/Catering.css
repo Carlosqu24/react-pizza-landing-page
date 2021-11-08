@@ -1,0 +1,22 @@
+.catering {
+      height: 80vh;
+
+      background-image: url(https://images.pexels.com/photos/1049626/pexels-photo-1049626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+      background-size: cover;
+}
+
+.overlay {
+      height: 100%;
+      width: 100%;
+
+      background: rgba(0, 0, 0, 0.788);
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+
+.catering__title {
+      font-size: 50px;
+      color: #fff;
+}

@@ -6,8 +6,8 @@ import foodsDb from '../../assets/db/foods.json';
 
 export const Features = () => {
       return (
-            <div id="menu" className="foods">
-                  <h2 className="foods__title">Menú</h2>
+            <div id="menu" className="foods section">
+                  <h2 className="foods__title section__title">Menú</h2>
                   
                   <div className="container">
                         <div className="foods-flex">
