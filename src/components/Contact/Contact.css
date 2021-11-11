@@ -29,3 +29,18 @@
       align-items: flex-start;
       justify-content: space-evenly;
 }
+
+
+@media screen and (max-width: 650px) {
+      .contact .container {
+            flex-direction: column;
+      }
+
+      .contact__map {
+            width: 100%;
+      }
+
+      .contact__info {
+            width: 100%;
+      }
+}

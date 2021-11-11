@@ -36,3 +36,14 @@
 .hero__img {
       width: 700px;
 }
+
+
+@media screen and (max-width: 1115px) {
+      .hero-card {
+            width: 100%;
+      }
+
+      .hero__img {
+            display: none;
+      }
+}
