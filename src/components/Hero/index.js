@@ -12,7 +12,7 @@ export const Hero = () => {
                         <p className="hero-card__description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam, tempore.</p>
                   </div>
                   
-                  <img className="hero__img" src="https://mealspizza.cl/wp-content/uploads/2021/07/CATEGORIA-PIZZA-600x600-1.png" alt="" />          
+                  <img className="hero__img" src="https://www.crustpizzaco.com/assets/theme/cpc/images/pizza-main.png" alt="" />          
                   </div>
             </div>
       )

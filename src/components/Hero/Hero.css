@@ -34,7 +34,7 @@
 }
 
 .hero__img {
-      width: 700px;
+      width: 550px;
 }
 
 
@@ -44,6 +44,6 @@
       }
 
       .hero__img {
-            display: none;
+            /* display: none; */
       }
 }
